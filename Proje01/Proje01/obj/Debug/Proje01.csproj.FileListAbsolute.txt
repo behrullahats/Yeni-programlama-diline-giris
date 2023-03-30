@@ -1,0 +1,8 @@
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\bin\Debug\Proje01.exe.config
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\bin\Debug\Proje01.exe
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\bin\Debug\Proje01.pdb
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\obj\Debug\Proje01.csproj.AssemblyReference.cache
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\obj\Debug\Proje01.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\obj\Debug\Proje01.csproj.CoreCompileInputs.cache
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\obj\Debug\Proje01.exe
+C:\Users\SEYIT\Desktop\C#\Proje01\Proje01\obj\Debug\Proje01.pdb
